@@ -308,7 +308,7 @@ input, select, textarea {
 	}
 
 	blockquote {
-		border-left: solid 0.5rem rgba(144, 144, 144, 0.25);
+		border-left: solid 0.5rem rgba(255, 106, 155, 0.5);
 		font-style: italic;
 		margin: 0 0 2rem 0;
 		padding: 1rem 0 1rem 2rem;
