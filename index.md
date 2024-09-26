@@ -6,7 +6,7 @@
 -->
 <html>
 	<head>
-		<title>Usama Faheem</title>
+		<title>Dopetrope by HTML5 UP</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="assets/css/main.css" />
@@ -27,7 +27,7 @@
 								<li>
 									<a href="#">Dropdown</a>
 									<ul>
-										<li><a href="#">Skills</a></li>
+										<li><a href="#">Lorem ipsum dolor</a></li>
 										<li><a href="#">Magna phasellus</a></li>
 										<li><a href="#">Etiam dolore nisl</a></li>
 										<li>
