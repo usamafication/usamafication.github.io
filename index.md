@@ -6,7 +6,7 @@
 -->
 <html>
 	<head>
-		<title>Dopetrope by HTML5 UP</title>
+		<title>Usama Faheem</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="assets/css/main.css" />
@@ -18,7 +18,7 @@
 				<section id="header">
 
 					<!-- Logo -->
-						<h1><a href="index.html">Dopetrope</a></h1>
+						<h1><a href="index.html">Usama Faheem</a></h1>
 
 					<!-- Nav -->
 						<nav id="nav">
@@ -27,7 +27,7 @@
 								<li>
 									<a href="#">Dropdown</a>
 									<ul>
-										<li><a href="#">Lorem ipsum dolor</a></li>
+										<li><a href="#">Aalu</a></li>
 										<li><a href="#">Magna phasellus</a></li>
 										<li><a href="#">Etiam dolore nisl</a></li>
 										<li>
