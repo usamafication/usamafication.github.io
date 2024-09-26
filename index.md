@@ -18,12 +18,12 @@
 				<section id="header">
 
 					<!-- Logo -->
-						<h1><a href="index.html">Usama Faheem</a></h1>
+						<h1><a href="index.md">Usama Faheem</a></h1>
 
 					<!-- Nav -->
 						<nav id="nav">
 							<ul>
-								<li class="current"><a href="index.html">Home</a></li>
+								<li class="current"><a href="index.md">Home</a></li>
 								<li>
 									<a href="#">Dropdown</a>
 									<ul>
