@@ -27,8 +27,8 @@
 								<li>
 									<a href="#">Dropdown</a>
 									<ul>
-										<li><a href="#">Aalu</a></li>
-										<li><a href="#">Magna phasellus</a></li>
+										<li><a href="#">Motivation</a></li>
+										<li><a href="#">Skills</a></li>
 										<li><a href="#">Etiam dolore nisl</a></li>
 										<li>
 											<a href="#">Phasellus consequat</a>
