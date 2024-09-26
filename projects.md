@@ -1,0 +1,1 @@
+This project is  linked to creating a personal website for ourselves which will help us in academic, as well as professional settings. We create our personal page on GitHub and add details, images and descriptions that we can build on later.
