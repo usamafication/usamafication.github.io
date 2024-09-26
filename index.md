@@ -29,15 +29,12 @@
 									<ul>
 										<li><a href="#">Motivation</a></li>
 										<li><a href="#">Skills</a></li>
-										<li><a href="#">Etiam dolore nisl</a></li>
+										<li><a href="#">Experience</a></li>
 										<li>
 											<a href="#">Phasellus consequat</a>
 											<ul>
-												<li><a href="#">Magna phasellus</a></li>
-												<li><a href="#">Etiam dolore nisl</a></li>
-												<li><a href="#">Veroeros feugiat</a></li>
-												<li><a href="#">Nisl sed aliquam</a></li>
-												<li><a href="#">Dolore adipiscing</a></li>
+												<li><a href="#">Skills</a></li>
+												<li><a href="#">Experience</a></li>
 											</ul>
 										</li>
 										<li><a href="#">Veroeros feugiat</a></li>
